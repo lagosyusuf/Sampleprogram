@@ -1,3 +1,5 @@
+# This python program will list of cars with make, model, price, horsepower, seats
+
 from collections import namedtuple
 
 Car = namedtuple('Car', ['make','model','price','horsepower','seats'])  # Create the named tuple
