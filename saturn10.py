@@ -1,4 +1,0 @@
-Sun
-Moon
-Jupiter
-Alien
